@@ -1,2 +1,2 @@
-# Project21
-tests reliability of walls when bullets hit them
+# p5.play-boilerplate
+Boiler plate for p5.play
